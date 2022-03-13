@@ -3,7 +3,7 @@
 [![codewars](https://www.codewars.com/users/dp-arhipov/badges/small)](https://www.codewars.com/users/dp-arhipov)
 
 
-<h2> Основной стек</h2>
+<h2> Мой основной стек</h2>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
