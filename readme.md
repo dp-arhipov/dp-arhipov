@@ -1,8 +1,6 @@
-👋 Привет, меня зовут Даниил, и я занимаюсь frontend разработкой
+👋 Hey, i'm daniel and i love frontend
 
-[![codewars](https://www.codewars.com/users/dp-arhipov/badges/small)](https://www.codewars.com/users/dp-arhipov)
-
-<h2> Мой основной стек</h2>
+<h2> My stack </h2>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
@@ -13,7 +11,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
-<h2> Полезные навыки</h2>
+<h2> My skills </h2>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
 <img style="margin: 10px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="MaterialUI" height="50" />  
