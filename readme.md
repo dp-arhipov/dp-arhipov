@@ -47,11 +47,6 @@
     style="margin:10px; height:50px; width:50px; object-fit:contain;"
   />  
   <img
-    src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"
-    alt="MaterialUI"
-    style="margin:10px; height:50px; width:50px; object-fit:contain;"
-  />  
-  <img
     src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
     alt="Bootstrap"
     style="margin:10px; height:50px; width:50px; object-fit:contain;"
